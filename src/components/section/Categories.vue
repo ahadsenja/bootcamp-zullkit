@@ -4,25 +4,25 @@ import CategoriesCard from "./components/CategoriesCard.vue";
 const categories = [
   {
     id: 1,
-    image: "/src/assets/img/categories-1.jpg",
+    image: "categories-1.jpg",
     title: "Mobile UI Kit",
     count: 731,
   },
   {
     id: 2,
-    image: "/src/assets/img/categories-2.jpg",
+    image: "categories-2.jpg",
     title: "Fonts ",
     count: 657,
   },
   {
     id: 3,
-    image: "/src/assets/img/categories-3.jpg",
+    image: "categories-3.jpg",
     title: "Icon Set ",
     count: 83.559,
   },
   {
     id: 4,
-    image: "/src/assets/img/categories-4.jpg",
+    image: "categories-4.jpg",
     title: "Website UI Kit ",
     count: 4.5,
   },
