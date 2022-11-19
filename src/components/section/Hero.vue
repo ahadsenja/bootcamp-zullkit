@@ -41,7 +41,7 @@
       <img
         class="w-full lg:w-3/4 lg:mt-8"
         src="@/assets/img/hero-image.png"
-        alt=""
+        alt="Hero image"
       />
     </div>
   </div>
