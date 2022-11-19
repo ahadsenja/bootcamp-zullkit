@@ -4,19 +4,19 @@ import ItemsCard from "./components/ItemsCard.vue";
 const items = [
   {
     id: 1,
-    image: "items-1.jpg",
+    image: "/src/assets/img/items-1.jpg",
     title: "Mobile UI Kit",
     subTitle: "Mobile UI Kit",
   },
   {
     id: 2,
-    image: "items-2.jpg",
+    image: "/src/assets/img/items-2.jpg",
     title: "Online Doctor Consultation",
     subTitle: "Website UI Kit",
   },
   {
     id: 3,
-    image: "items-3.jpg",
+    image: "/src/assets/img/items-3.jpg",
     title: "Banking Crypto",
     subTitle: "Mobile UI Kit",
   },
