@@ -1,6 +1,6 @@
 <script setup>
 import TheLogo from "./components/Logo.vue";
-import UserInfo from "./components/UserInfo.vue";
+import AuthButton from "./components/AuthButton.vue";
 import NavigationLink from "./components/NavigationLink.vue";
 </script>
 
@@ -12,7 +12,7 @@ import NavigationLink from "./components/NavigationLink.vue";
       class="container flex flex-wrap items-center justify-between mx-auto my-2"
     >
       <TheLogo />
-      <UserInfo />
+      <AuthButton />
       <NavigationLink />
     </div>
   </nav>
